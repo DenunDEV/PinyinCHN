@@ -33,7 +33,8 @@ Este **App** penso em preencher essa lacuna com uma interface pensada **exclusiv
 ## Até o momento...
                                                 
 ✍️ Conversão Hanzi → Pinyin
-- Exibe entonações (`wǒ ài nǐ`) e versão sem entonações (`wo ai ni`)
+- Exibe entonações (`wǒ de gēgē`)
+- Versão sem entonações (`wo de gege`)
 
 🇨🇳 Renderização de caracteres
 - Suporte completo a UTF-8 para ideogramas chineses
