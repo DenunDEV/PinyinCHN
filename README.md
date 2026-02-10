@@ -13,10 +13,10 @@ Uma ferramenta **didática** para aprendizado do idioma chinês que exibe simult
 
 Nos sistemas tradicionais (como o IME do Windows), digitamos **pinyin** para obter **ideogramas**
 
-Entretatno... **quem está aprendendo chinês** enfrenta o problema inverso. 
+Entretanto... **quem está aprendendo chinês** enfrenta o problema inverso. 
 vê os ideogramas em livros, filmes ou jogos e precisa descobrir rapidamente o significado dela.
 
-1. Como se pronuncia? (`wǒ de 
+
 Porém, **quem está aprendendo chinês** enfrenta o problema inverso:  
 vê os ideogramas em livros, dramas ou jogos e precisa descobrir rapidamente:
 
