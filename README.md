@@ -22,23 +22,27 @@ vê os ideogramas em livros, dramas ou jogos e precisa descobrir rapidamente:
 
 ***Exemplo simples***
 
-qual o ideograma?  (ideograma)  (`我的哥哥`)
-Como se pronuncia? (pinyin)     (`wǒ de gēgē`)
-Qual a tradução?   (PT-BR)      (`meu irmão mais velho`)
+1. Qual o ideograma?  (ideograma)  (`我的哥哥`)
+2. Como se pronuncia? (pinyin)     (`wǒ de gēgē`)
+3. Qual a tradução?   (PT-BR)      (`meu irmão mais velho`)
 
 Este **App** penso em preencher essa lacuna com uma interface pensada **exclusivamente para estudantes**.
 
 ---
 
 ## Até o momento...
+                                                
+✍️ Conversão Hanzi → Pinyin
+- Exibe entonações (`wǒ ài nǐ`) e versão sem entonações (`wo ai ni`)
 
-| Recurso                                         | Descrição                                                          
-|------------------------------------------------------------------------------------
-| ✍️ Conversão Hanzi → Pinyin ------------------- Exibe entonações (`wǒ ài nǐ`) e versão sem entonações (`wo ai ni`)
-| 🇨🇳 Renderização de caracteres ------------------ Suporte completo a UTF-8 para ideogramas chineses 
-| 💻 Interface gráfica Tkinter ------------------ App desktop leve e responsivo                 
-| 📋 Cópia para área de transferência ------------ Um clique para salvar frases estudadas        
+🇨🇳 Renderização de caracteres
+- Suporte completo a UTF-8 para ideogramas chineses
 
+💻 Interface gráfica Tkinter
+- App desktop leve e responsivo
+
+📋 Cópia para área de transferência
+- Um clique para salvar frases estudadas
 
 #
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](LICENSE)
