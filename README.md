@@ -35,15 +35,16 @@ Este **App** penso em preencher essa lacuna com uma interface pensada **exclusiv
 ✍️ Conversão Hanzi → Pinyin
 - Exibe entonações (`wǒ de gēgē`)
 - Versão sem entonações (`wo de gege`)
+- Tradução para português (`PT-BR`)
 
 🇨🇳 Renderização de caracteres
 - Suporte completo a UTF-8 para ideogramas chineses
 
 💻 Interface gráfica Tkinter
-- App desktop leve e responsivo
+- App desktop leve e responsivo, para prototipagem inicial de modelo
 
 📋 Cópia para área de transferência
-- Um clique para salvar frases estudadas
+- Um clique para salvar frases estudadas e podendo ser copiadas para qualquer lugar qu8e você queira.
 
 #
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](LICENSE)
