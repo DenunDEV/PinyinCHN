@@ -1,4 +1,4 @@
-# 📚 PinyinCHN — Conversor Didático Chinês ⇄ Pinyin
+# 📚 PinyinCHN — Conversor Didático Chinês ⇄ Pinyin ⇄ PT-BR
 
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg)](https://python.org)
@@ -15,10 +15,6 @@ Nos sistemas tradicionais (como o IME do Windows), digitamos **pinyin** para obt
 
 Entretanto... **quem está aprendendo chinês** enfrenta o problema inverso. 
 vê os ideogramas em livros, filmes ou jogos e precisa descobrir rapidamente o significado dela.
-
-
-Porém, **quem está aprendendo chinês** enfrenta o problema inverso:  
-vê os ideogramas em livros, dramas ou jogos e precisa descobrir rapidamente:
 
 ***Exemplo simples***
 
