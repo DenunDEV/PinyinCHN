@@ -1,8 +1,15 @@
-﻿# app_pinyin.py
+﻿
+# por favor instale as dependências antes de rodar: 
+# pip install pypinyin  e  deep-translator
+
 import tkinter as tk
-from tkinter import ttk, messagebox
-from pypinyin import pinyin, Style, lazy_pinyin
-from deep_translator import GoogleTranslator
+from tkinter import ttk, messagebox                          # para interface gráfica e mensagens
+from pypinyin import pinyin, Style, lazy_pinyin   # para conversão de chinês para pinyin
+from deep_translator import GoogleTranslator    # para tradução de chinês para português
+
+print("Bem vindo ao projeto de denun")
+print("Este projeto é um conversor de texto chinês para pinyin e tradução em português.")
+print("Caso de dicas e melhorias, por favor visite meu perfil no github")
 
 class ConversorPinyinApp:
     def __init__(self, root):
@@ -23,6 +30,7 @@ class ConversorPinyinApp:
         
         self._criar_widgets()
     
+    # Criação dos widgets da interface
     def _criar_widgets(self):
         # Título
         titulo = tk.Label(
@@ -165,12 +173,12 @@ class ConversorPinyinApp:
         scrollbar.pack(side="right", fill="y")
         self.resultado.config(yscrollcommand=scrollbar.set)
         
-        # Bind Enter para converter
+        # Bind Enter para converter | Permite usar Enter para converter, melhorando a usabilidade
         self.root.bind("<Return>", lambda e: self.converter())
         self.root.bind("<KP_Enter>", lambda e: self.converter())
     
     def converter(self):
-        texto = self.entrada.get("1.0", "end-1c").strip()
+        texto = self.entrada.get("1.0", "end-1c").strip() 
         
         if not texto:
             messagebox.showwarning("⚠️ Atenção!", "Digite algum texto em chinês, por favor.")
@@ -184,7 +192,7 @@ class ConversorPinyinApp:
             self.resultado.config(state="disabled")
             self.root.update()
             
-            # Converte com e sem tons
+            # Converte com e sem entonação
             pinyin_com_tons = self._converter_com_tons(texto)
             pinyin_sem_tons = self._converter_sem_tons(texto)
             
@@ -208,7 +216,7 @@ class ConversorPinyinApp:
             # Habilita botão copiar
             self.botao_copiar.config(state="normal")
             
-        except Exception as e:
+        except Exception as e:     # Captura erros de tradução ou conversão
             messagebox.showerror(
                 "❌ Erro",
                 f"Erro ao traduzir:\n{str(e)}\n\n"
@@ -226,7 +234,7 @@ class ConversorPinyinApp:
         return " ".join(lazy_pinyin(texto))
     
     def _traduzir_portugues(self, texto):
-        """Traduz texto chinês para português."""
+        # Traduz texto chinês para português.
         try:
             return self.tradutor.translate(texto)
         except Exception as e:
