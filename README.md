@@ -40,7 +40,7 @@ Este **App** penso em preencher essa lacuna com uma interface pensada **exclusiv
 - App desktop leve e responsivo, para prototipagem inicial de modelo
 
 📋 Cópia para área de transferência
-- Um clique para salvar frases estudadas e podendo ser copiadas para qualquer lugar qu8e você queira.
+- Um clique para salvar frases estudadas e podendo ser copiadas para qualquer lugar que você queira.
 
 #
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](LICENSE)
