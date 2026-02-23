@@ -50,6 +50,7 @@ Este **App** penso em preencher essa lacuna com uma interface pensada **exclusiv
 - Um clique para salvar frases estudadas e podendo ser copiadas para qualquer lugar que você queira.
 
 ## 📁 Estrutura do Projeto
+`````
 PinyinCHN/
 ├── app_pinyin.py # Interface gráfica Tkinter
 ├── core/
@@ -59,35 +60,41 @@ PinyinCHN/
 ├── requirements.txt # Dependências Python
 ├── README.md # Este arquivo
 └── LICENSE # Licença MIT
+`````
+## ✨ **Modularização**:
 
-## ✨ **Vantagem da modularização**: 
-A lógica em `core/` pode ser reutilizada em APIs web, apps mobile ou scripts independentes — sem depender da interface Tkinter.
+ A lógica em `core/` pode ser reutilizada em APIs web, apps mobile ou scripts independentes — sem depender da interface Tkinter.
 
-
-## 🚀 Como Usar
+# 🚀 Como Usar
 
 ### 1. Clonar o repositório
-# bash
+`````
+bash
 git clone https://github.com/seu-usuario/PinyinCHN.git
 cd PinyinCHN
+``````
 
 ### 2. Criar ambiente virtual (opcional, mas recomendado)
+`````
 python -m venv venv
 venv\Scripts\activate    # Windows
 source venv/bin/activate  # Linux/Mac
-
+`````
 ### 3. Instalar dependências
+`````
 pip install -r requirements.txt
-
+`````
 ### 4. Executar o app
+`````
 python app_pinyin.py
-
+`````
 ## Usar a ferramenta
 - Digite texto em chinês (我的哥哥)
 - Clique em 🔄 Converter e Traduzir ou pressione Enter
 - Veja o resultado com pinyin + tradução
 - Clique em 📋 Copiar resultado para salvar
-- 🔍 Dica: Se a tradução falhar, clique no botão 🔧 Diagnóstico para identificar o problema (conexão, firewall, limite de requisições, etc.)
+
+> 🔍 Dica: Se a tradução falhar, clique no botão 🔧 Diagnóstico para identificar o problema (conexão, firewall, limite de requisições, etc.)
 
 
 
