@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frank\\Desktop\\PinyinDN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|C:\\Users\\frank\\Desktop\\PinyinDN\\app_pinyin.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|solutionrelative:app_pinyin.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|C:\\Users\\frank\\Desktop\\PinyinDN\\core\\tradutor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|solutionrelative:core\\tradutor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|C:\\Users\\frank\\Desktop\\PinyinDN\\core\\conversor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|solutionrelative:core\\conversor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|C:\\Users\\frank\\Desktop\\PinyinDN\\core\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|solutionrelative:core\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|C:\\Users\\frank\\Desktop\\PinyinDN\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FC224EE7-D97F-44A4-B747-0FBF64D766E0}|Pinyin.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tradutor.py",
+              "DocumentMoniker": "C:\\Users\\frank\\Desktop\\PinyinDN\\core\\tradutor.py",
+              "RelativeDocumentMoniker": "core\\tradutor.py",
+              "ToolTip": "C:\\Users\\frank\\Desktop\\PinyinDN\\core\\tradutor.py",
+              "RelativeToolTip": "core\\tradutor.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T19:25:54.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "conversor.py",
+              "DocumentMoniker": "C:\\Users\\frank\\Desktop\\PinyinDN\\core\\conversor.py",
+              "RelativeDocumentMoniker": "core\\conversor.py",
+              "ToolTip": "C:\\Users\\frank\\Desktop\\PinyinDN\\core\\conversor.py",
+              "RelativeToolTip": "core\\conversor.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T19:25:47.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "__init__.py (core)",
+              "DocumentMoniker": "C:\\Users\\frank\\Desktop\\PinyinDN\\core\\__init__.py",
+              "RelativeDocumentMoniker": "core\\__init__.py",
+              "ToolTip": "C:\\Users\\frank\\Desktop\\PinyinDN\\core\\__init__.py",
+              "RelativeToolTip": "core\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-23T19:25:30.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\frank\\Desktop\\PinyinDN\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "C:\\Users\\frank\\Desktop\\PinyinDN\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-23T19:21:26.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app_pinyin.py",
+              "DocumentMoniker": "C:\\Users\\frank\\Desktop\\PinyinDN\\app_pinyin.py",
+              "RelativeDocumentMoniker": "app_pinyin.py",
+              "ToolTip": "C:\\Users\\frank\\Desktop\\PinyinDN\\app_pinyin.py",
+              "RelativeToolTip": "app_pinyin.py",
+              "ViewState": "AgIAAOgBAAAAAAAAAAAywAQCAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-02-10T18:25:39.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
